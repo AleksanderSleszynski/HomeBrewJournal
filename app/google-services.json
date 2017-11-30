@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288135610168",
+    "firebase_url": "https://homebrewjournal-c1e1b.firebaseio.com",
+    "project_id": "homebrewjournal-c1e1b",
+    "storage_bucket": "homebrewjournal-c1e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288135610168:android:a4a0db10d02812a2",
+        "android_client_info": {
+          "package_name": "com.example.julian.homebrewjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288135610168-56rsuqcspi204lfhd3nq06fp91brnood.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julian.homebrewjournal",
+            "certificate_hash": "38d1246e7dfd491d2ff0cba0b31c79c4aa5cf3a3"
+          }
+        },
+        {
+          "client_id": "288135610168-i1gorrfiek66ghb4h52aqhefnfh0plcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD03eXyN7DZ0cTZtMUekJnzIO8bYDSGnhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288135610168-i1gorrfiek66ghb4h52aqhefnfh0plcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
